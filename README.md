@@ -1,1 +1,7 @@
-# pwn.college_solutions
+# Solution to [pwn.college](https://pwn.college) challenges that I found interesting.
+
+## Intro to Cybersecurity
+
+- [Cryptography](https://github.com/itwaseasy/pwn.college_solutions/tree/master/intro_to_cybersecurity/cryptography)
+
+
